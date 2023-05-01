@@ -2,9 +2,11 @@
 
 ### Issue Number #️⃣
 
-## Changes
+## Changes 🧳
 
 ## Screenshots (if appropriate) 📷
+
+## References 🛥️
 
 ## Checklist: ✅
 
